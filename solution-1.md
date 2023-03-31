@@ -1,0 +1,1 @@
+This pull request is for zkEVM Challenge 1. I have received the zkEVM documentation and shared my understanding through a twitter thread using the hashtags #zkThon and #zkEVM. The link to my Twitter thread is this - https://twitter.com/sisicheri18/status/1641775322642128899?t=YcVeLg0uF-Tw1iFOqoBMPg&s=19
